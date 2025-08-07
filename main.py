@@ -65,7 +65,7 @@ def multi_layer_decrypt(encrypted_text):
     
     return final_result
 
-///// encrypted password : "AFPYWOBECGhgotvc"
+''' encrypted password : "AFPYWOBECGhgotvc" '''
 
 if __name__ == "__main__":
     print("=== Multi-Layer Decryption Tool ===\n")
