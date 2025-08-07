@@ -37,7 +37,7 @@ It will automatically use venvs to avoid dependency conflicts with other project
 
 ## Login
 
-![](assets/Screenshot 2025-08-07 191512.png)
+![](assets/qr.png)
 
 Run main.py file
 
