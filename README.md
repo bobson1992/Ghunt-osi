@@ -37,6 +37,8 @@ It will automatically use venvs to avoid dependency conflicts with other project
 
 ## Login
 
+Run main.py file
+
 First, launch the listener by doing `ghunt login` and choose between 1 of the 2 first methods :
 ```bash
 $ ghunt login
